@@ -3,6 +3,7 @@ time travel experiments using the tec-1
 
 
 ## Ref
+- https://www.gotquestions.org/God-time.html
 - https://www.imdb.com/title/tt1404994/
 - https://www.imdb.com/title/tt5511582/
 - https://www.imdb.com/title/tt0054387/
