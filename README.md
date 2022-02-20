@@ -1,5 +1,17 @@
 # tec-Taxichronos
-time travel experiments using the tec-1
+Time travel experiments using the tec-1
+
+- Time travel via speed
+- Time travel via gravity
+- Time travel via suspended animation, cryo, coma, 
+- Time travel via wormholes
+- Time travel using light
+
+
+http://www.exactlywhatistime.com/physics-of-time/quantum-time/
+- "According to quantum mechanics, the answer appears to be “no”, and time appears to be in fact smooth and continuous (contrary to common belief, not everything in quantum theory is quantized).
+
+
 
 
 ## Ref
