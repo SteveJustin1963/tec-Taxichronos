@@ -45,4 +45,6 @@ Time travel experiments using the tec-1
 - https://www.imdb.com/title/tt0756888/
 - https://spaceplace.nasa.gov/time-travel/en/
 - https://www.bbc.com/news/science-environment-44771942
+- https://en.wikipedia.org/wiki/Causality_(physics)
+- https://physics.stackexchange.com/questions/356936/causality-and-speed-of-light
 - 
