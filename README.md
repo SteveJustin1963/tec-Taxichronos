@@ -1,7 +1,7 @@
 # tec-Taxichronos
 Time travel experiments using the tec-1
 
-- God: "I make known the end from the beginning, from ancient times, what is still to come. I say, ‘My purpose will stand, and I will do all that I please.’ " https://biblehub.com/isaiah/46-10.htm
+- I AM WHO I AM : "I make known the end from the beginning, from ancient times, what is still to come. I say, ‘My purpose will stand, and I will do all that I please.’ " https://biblehub.com/isaiah/46-10.htm
 
 
 - Do nothing, the future is inevitable, you will travel into the future at a normal rate.
