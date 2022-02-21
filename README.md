@@ -1,9 +1,7 @@
 # tec-Taxichronos
 Time travel experiments using the tec-1
 
-- I AM WHO I AM : "I make known the end from the beginning, from ancient times, what is still to come. I say, ‘My purpose will stand, and I will do all that I please.’ " https://biblehub.com/isaiah/46-10.htm
-
-
+- I AM WHO I AM : "I make known the end from the beginning, from ancient times, what is still to come. I say, ‘My purpose will stand, and I will do all that I please.’ " https://biblehub.com/isaiah/46-10.htm  ...kairos means "the appointed time in the purpose of God," 
 - Do nothing, the future is inevitable, you will travel into the future at a normal rate.
 - Move faster and time dilates, a small increment into the future relative to your surroundings.  
 - "Does time actually exist? Time is a prime conflict between relativity and quantum mechanics, measured and malleable in relativity while assumed as background (and not an observable) in quantum mechanics. To many physicists, while we experience time as psychologically real, time is not fundamentally real. (https://www.space.com/29859-the-illusion-of-time.html)
