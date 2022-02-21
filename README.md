@@ -16,7 +16,7 @@ Time travel experiments using the tec-1
 - Entangled Quantum Particles Can "Communicate" Through Time. "spooky action at a delay," (https://www.discovery.com/science/Entangled-Quantum-Particles-Communicate)
 - Mnemonic memory circuit, Star Trek, https://en.wikipedia.org/wiki/The_City_on_the_Edge_of_Forever, https://www.youtube.com/watch?v=EGnMW-VJmws, 
 
-![]()
+![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/star-trek-1-28-Thecityontheedgeofforeverhd600.jpg)
 
 
 - 
