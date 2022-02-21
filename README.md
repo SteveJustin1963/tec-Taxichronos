@@ -1,6 +1,8 @@
 # tec-Taxichronos
 Time travel experiments using the tec-1
 
+- Do nothing, the future is inevitable, you will travel into the future at a normal rate.
+- Move faster and time dilates, a small increment into the future relative to your surroundings.  
 - "Does time actually exist? Time is a prime conflict between relativity and quantum mechanics, measured and malleable in relativity while assumed as background (and not an observable) in quantum mechanics. To many physicists, while we experience time as psychologically real, time is not fundamentally real. (https://www.space.com/29859-the-illusion-of-time.html)
 - Time travel via speed. What does Einstein say about time? In the Special Theory of Relativity, Einstein determined that time is relative—in other words, the rate at which time passes depends on your frame of reference. (https://www.amnh.org/exhibitions/einstein/time/a-matter-of-time)
 - Time travel via gravity. Does time create gravity? Yes. Time causes gravity. Gravity is not a force, it is an effect of spacetime curvature. (https://www.quora.com/Does-time-cause-gravity)
