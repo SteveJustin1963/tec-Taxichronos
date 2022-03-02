@@ -30,6 +30,7 @@ Time travel experiments using the tec-1
 
 ## Ref
 - https://www.gotquestions.org/God-time.html
+- https://en.wikipedia.org/wiki/Time_in_physics
 - https://en.wikipedia.org/wiki/John_Titor
 - https://www.imdb.com/title/tt1404994/
 - https://www.imdb.com/title/tt5511582/
