@@ -19,6 +19,10 @@ Time travel experiments using the tec-1
 - Entangled Quantum Particles Can "Communicate" Through Time. "spooky action at a delay," (https://www.discovery.com/science/Entangled-Quantum-Particles-Communicate)
 - https://www.gotquestions.org/God-time.html
 - https://en.wikipedia.org/wiki/Time_in_physics
+- https://spaceplace.nasa.gov/time-travel/en/
+- https://www.bbc.com/news/science-environment-44771942
+- https://en.wikipedia.org/wiki/Causality_(physics)
+- https://physics.stackexchange.com/questions/356936/causality-and-speed-of-light
 
 ## Fiction
 - https://en.wikipedia.org/wiki/John_Titor claiming to be an American military time traveler from 2036
@@ -37,10 +41,6 @@ Time travel experiments using the tec-1
 - Mordecai tries to fix his bad kiss with Margaret by using Rigby's time machine, a sphere that takes verbal input then press the button. https://www.imdb.com/title/tt2363416/
 - Fry agrees to travel one minute into the future in Farnsworth's new time machine right before a big date with Leela, but they wind up going far into the future with no way to go back in time. https://www.imdb.com/title/tt1630896/
 - A mishap involving a microwave oven and a supernova throws the Planet Express staff back in time to Roswell, New Mexico in 1947, where Fry has a fateful encounter with his grandparents, Dr. Zoidberg meets Pres. Truman and Leela & Prof. Farnsworth wreck an Air Force base. https://www.imdb.com/title/tt0756888/
-- https://spaceplace.nasa.gov/time-travel/en/
-- https://www.bbc.com/news/science-environment-44771942
-- https://en.wikipedia.org/wiki/Causality_(physics)
-- https://physics.stackexchange.com/questions/356936/causality-and-speed-of-light
 - Mnemonic memory circuit, Star Trek (S1E28), https://en.wikipedia.org/wiki/The_City_on_the_Edge_of_Forever, https://www.youtube.com/watch?v=EGnMW-VJmws, the device is some sort of cascading circuit using vacuum tubes, the output signal stream is fed into Tricorder then shown on its screen. Inputting mnemonic search parameters into the Tricorder allows its computer to filter the signal into various video streams from the past. 
 
 ![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/star-trek-1-28-Thecityontheedgeofforeverhd600.jpg)
