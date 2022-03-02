@@ -20,7 +20,7 @@ Time travel experiments using the tec-1
 
 
 
-## Ref
+## Fiction
 - https://www.gotquestions.org/God-time.html
 - https://en.wikipedia.org/wiki/Time_in_physics
 - https://en.wikipedia.org/wiki/John_Titor claiming to be an American military time traveler from 2036
