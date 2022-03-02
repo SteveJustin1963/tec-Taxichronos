@@ -17,15 +17,7 @@ Time travel experiments using the tec-1
 - Can the future be changed? The future can always be changed. However, this does depend on an individual's awareness of the possible outcomes of a situation. If a person is able to work out the most likely outcome that depends on the current situation, then they will be able to influence the factors of that situation to change its outcome. (https://www.quora.com/Can-the-future-be-changed-1)
 - There have been suggestions to look at the concept of time as an emergent phenomenon that is a side effect of quantum entanglement. In other words, time is an entanglement phenomenon, which places all equal clock readings (of correctly prepared clocks, or of any objects usable as clocks) into the same history. (https://en.wikipedia.org/wiki/Quantum_entanglement#:~:text=There%20have%20been%20suggestions%20to,clocks)%20into%20the%20same%20history.)
 - Entangled Quantum Particles Can "Communicate" Through Time. "spooky action at a delay," (https://www.discovery.com/science/Entangled-Quantum-Particles-Communicate)
-- Mnemonic memory circuit, Star Trek (S1E28), https://en.wikipedia.org/wiki/The_City_on_the_Edge_of_Forever, https://www.youtube.com/watch?v=EGnMW-VJmws, the device is some sort of cascading circuit using vacuum tubes, the output signal stream is fed into Tricorder then shown on its screen. Inputting mnemonic search parameters into the Tricorder allows its computer to filter the signal into various video streams from the past. 
 
-![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/star-trek-1-28-Thecityontheedgeofforeverhd600.jpg)
-
-
-- 
-
--   
-- 
 
 
 ## Ref
@@ -51,4 +43,7 @@ Time travel experiments using the tec-1
 - https://www.bbc.com/news/science-environment-44771942
 - https://en.wikipedia.org/wiki/Causality_(physics)
 - https://physics.stackexchange.com/questions/356936/causality-and-speed-of-light
-- 
+- Mnemonic memory circuit, Star Trek (S1E28), https://en.wikipedia.org/wiki/The_City_on_the_Edge_of_Forever, https://www.youtube.com/watch?v=EGnMW-VJmws, the device is some sort of cascading circuit using vacuum tubes, the output signal stream is fed into Tricorder then shown on its screen. Inputting mnemonic search parameters into the Tricorder allows its computer to filter the signal into various video streams from the past. 
+
+![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/star-trek-1-28-Thecityontheedgeofforeverhd600.jpg)
+ 
