@@ -17,12 +17,10 @@ Time travel experiments using the tec-1
 - Can the future be changed? The future can always be changed. However, this does depend on an individual's awareness of the possible outcomes of a situation. If a person is able to work out the most likely outcome that depends on the current situation, then they will be able to influence the factors of that situation to change its outcome. (https://www.quora.com/Can-the-future-be-changed-1)
 - There have been suggestions to look at the concept of time as an emergent phenomenon that is a side effect of quantum entanglement. In other words, time is an entanglement phenomenon, which places all equal clock readings (of correctly prepared clocks, or of any objects usable as clocks) into the same history. (https://en.wikipedia.org/wiki/Quantum_entanglement#:~:text=There%20have%20been%20suggestions%20to,clocks)%20into%20the%20same%20history.)
 - Entangled Quantum Particles Can "Communicate" Through Time. "spooky action at a delay," (https://www.discovery.com/science/Entangled-Quantum-Particles-Communicate)
-
-
-
-## Fiction
 - https://www.gotquestions.org/God-time.html
 - https://en.wikipedia.org/wiki/Time_in_physics
+
+## Fiction
 - https://en.wikipedia.org/wiki/John_Titor claiming to be an American military time traveler from 2036
 - https://www.imdb.com/title/tt1404994/ Professor Kapp has invented a time machine, and together with Gumby and friends, he goes for a trip to Egypt, 2001. 
 - Timeless tells the story of a mysterious criminal who steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. The only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events. While they must make every effort not to affect the past themselves, they must also stay one step ahead of this dangerous fugitive. https://www.imdb.com/title/tt5511582/
