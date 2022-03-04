@@ -27,6 +27,7 @@ Time travel experiments using the tec-1
 10^-24	yocto	y
 ```
 
+so we build a circuit/apparatus and attached to tec1 via ADC 
 
 ## Measurement
 time experiment needs time measurements. large time jumps can be checked personally but nano and smaller need finesse.
