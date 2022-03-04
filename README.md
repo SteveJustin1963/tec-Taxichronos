@@ -69,8 +69,9 @@ Ghx storage scopes are >$10,000 so circuits worth a few dollars is our domain. w
 - ½mv^2 where m is its mass and v is its speed. 
 - ½mv^2 = eV, The mass of the electron is m = 9 × 10-31 kg, 
 - The electronic charge is e = 1.6 × 10-19 C. 
-- For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 106 m/s. (Relativistic effects have not been taken into account.) 
-- There will be no more acceleration once the electrons have passed through the anode.
+- For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 106 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. https://spark.iop.org/speed-electrons#gref
+
+
 - now consider the Relativistic effects as the voltage thus speed increases.
 ```
 speed of light %
