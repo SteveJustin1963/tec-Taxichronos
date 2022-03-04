@@ -36,7 +36,8 @@ for the lack of a over Ghx storag scope a few dollars on parts is better.
 - feed the DUT with a 1 MHz clock, send a 1.0001 MHz clock (put a trim in the Vcc line) to the clock input of a D flop which samples the DUT output, and you got a ghetto 10Gsps sampler, 
 
 ## counters
-- 
+## Sample and hold
+
 
 ## Iterate
 - https://github.com/SteveJustin1963/tec-Taxichronos/wiki
