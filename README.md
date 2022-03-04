@@ -23,15 +23,9 @@ Time travel experiments using the tec-1
 - https://en.wikipedia.org/wiki/Causality_(physics)
 - https://physics.stackexchange.com/questions/356936/causality-and-speed-of-light
 
-## Fiction
-https://github.com/SteveJustin1963/tec-Taxichronos/wiki
-
-## Measurement
-time experiment needs time measurements. large time jumps can be checked personaly but nano and smaller need finesse.
-for the lack of a over Ghx storag scope a few dollars on parts is better. 
 
 
-## SI prefixes
+## Scale - SI prefixes
 ```
 10^24	yotta	Y
 10^21	zetta	Z
@@ -55,6 +49,10 @@ for the lack of a over Ghx storag scope a few dollars on parts is better.
 10^-24	yocto	y
 ```
 
+
+## Measurement
+time experiment needs time measurements. large time jumps can be checked personaly but nano and smaller need finesse.
+Ghx storag scopes are >$10,000 so curcuits worth a few dollars is our domain. working in the 10^-3 to -6 is easy, -7 and beyond is a challenge.
 
 
 ## detectors 
