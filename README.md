@@ -24,9 +24,17 @@ Time travel experiments using the tec-1
 - https://physics.stackexchange.com/questions/356936/causality-and-speed-of-light
 
 ## Fiction
+https://github.com/SteveJustin1963/tec-Taxichronos/wiki
 
-## measurement
+## Measurement
+time experiment needs time measurements. large time jumps can be checked personaly but nano and smaller need finesse.
+for the lack of a over Ghx storag scope a few dollars on parts is better. 
 
-PLL phase detector is implemented...
+## detector 
+- PLL phase- to measure the delay, feed clock frequency in, use a fast 74AHC XOR gate to compute the (input of X) XOR (output of X). RC filter the output. The average voltage is proportional to the time delay modulo clock period.
 
-To measure the delay of circuit X, send a clock signal of suitable frequency into it, and use a fast 74AHC XOR gate to compute the (input of X) XOR (output of X). RC filter the output. The average voltage is proportional to the time delay modulo clock period. Pay attention to layout.
+- feed the DUT with a 1 MHz clock, send a 1.0001 MHz clock (put a trim in the Vcc line) to the clock input of a D flop which samples the DUT output, and you got a ghetto 10Gsps sampler, 
+
+
+## Iterate
+- https://github.com/SteveJustin1963/tec-Taxichronos/wiki
