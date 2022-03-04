@@ -30,6 +30,33 @@ https://github.com/SteveJustin1963/tec-Taxichronos/wiki
 time experiment needs time measurements. large time jumps can be checked personaly but nano and smaller need finesse.
 for the lack of a over Ghx storag scope a few dollars on parts is better. 
 
+
+## SI prefixes
+Factor	Name 	Symbol
+10^24	yotta	Y
+10^21	zetta	Z
+10^18	exa	E
+10^15	peta	P
+10^12	tera	T
+10^9	giga	G
+10^6	mega	M
+10^3	kilo	k
+10^2	hecto	h
+10^1	deka	da
+10^-1	deci	d
+10^-2	centi	c
+10^-3	milli	m
+10^-6	micro	µ
+10^-9	nano	n
+10^-12	pico	p
+10^-15	femto	f
+10^-18	atto	a
+10^-21	zepto	z
+10^-24	yocto	y
+
+
+
+
 ## detectors 
 - PLL phase- to measure the delay, feed clock frequency in, use a fast 74AHC XOR gate to compute the (input of X) XOR (output of X). RC filter the output. The average voltage is proportional to the time delay modulo clock period.
 
