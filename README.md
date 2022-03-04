@@ -46,3 +46,8 @@ Time travel experiments using the tec-1
 
 ![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/star-trek-1-28-Thecityontheedgeofforeverhd600.jpg)
  
+## measurement
+
+PLL phase detector is implemented...
+
+To measure the delay of circuit X, send a clock signal of suitable frequency into it, and use a fast 74AHC XOR gate to compute the (input of X) XOR (output of X). RC filter the output. The average voltage is proportional to the time delay modulo clock period. Pay attention to layout.
