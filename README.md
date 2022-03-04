@@ -32,7 +32,7 @@ for the lack of a over Ghx storag scope a few dollars on parts is better.
 
 
 ## SI prefixes
-Factor	Name 	Symbol
+```
 10^24	yotta	Y
 10^21	zetta	Z
 10^18	exa	E
@@ -53,7 +53,7 @@ Factor	Name 	Symbol
 10^-18	atto	a
 10^-21	zepto	z
 10^-24	yocto	y
-
+```
 
 
 
