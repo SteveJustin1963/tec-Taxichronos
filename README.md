@@ -65,8 +65,12 @@ Ghx storage scopes are >$10,000 so circuits worth a few dollars is our domain. w
 
 ## electron beams/gun
 - typical large TV with a width of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which is just under 300,000,000 m/s. https://www.physicsforums.com/threads/faster-than-light.241389/
-- electron gun, electrons boiled off the surface of a hot metal plate. They leave the plate with very small speeds, and then the electric field accelerates them towards the anode.  electron has a charge of e coulombs, and the potential difference between the filament and the anode is V volts. The energy transferred to each coulomb of charge is V joules.  energy transferred to electrons is eV joules. The electrons gain kinetic energy. Unlike electrons in a wire, these electrons have nothing to hit, nothing to transfer energy to, as they travel towards the anode. So each electron gains kinetic energy equal to the amount of energy transferred electrically. The electron starts from rest (near enough) so the kinetic energy gained is given by ½mv 2 where m is its mass and v is its speed. So we can say that: ½mv 2 = eV, The mass of the electron is m = 9 × 10-31 kg, 
-The electronic charge is e = 1.6 × 10-19 C. For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 106 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode.
+- electron gun, electrons boiled off the surface of a hot metal plate. They leave the plate with very small speeds, and then the electric field accelerates them towards the anode.  electron has a charge of e coulombs, and the potential difference between the filament and the anode is V volts. The energy transferred to each coulomb of charge is V joules.  energy transferred to electrons is eV joules. The electrons gain kinetic energy. Unlike electrons in a wire, these electrons have nothing to hit, nothing to transfer energy to, as they travel towards the anode. So each electron gains kinetic energy equal to the amount of energy transferred electrically. The electron starts from rest (near enough) so the kinetic energy gained is given by 
+- ½mv^2 where m is its mass and v is its speed. 
+- ½mv^2 = eV, The mass of the electron is m = 9 × 10-31 kg, 
+- The electronic charge is e = 1.6 × 10-19 C. 
+- For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 106 m/s. (Relativistic effects have not been taken into account.) 
+- There will be no more acceleration once the electrons have passed through the anode.
 - now consider the Relativistic effects as the voltage thus speed increases.
 ```
 speed of light %
@@ -76,7 +80,7 @@ speed of light %
 75% 1.51 seconds
 99% 7.09 seconds
 ```
-
+find V for 50% speed of light.
 
 ## Iterate
 - https://github.com/SteveJustin1963/tec-Taxichronos/wiki
