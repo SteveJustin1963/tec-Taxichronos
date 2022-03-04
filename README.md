@@ -51,8 +51,8 @@ Time travel experiments using the tec-1
 
 
 ## Measurement
-time experiment needs time measurements. large time jumps can be checked personaly but nano and smaller need finesse.
-Ghx storag scopes are >$10,000 so curcuits worth a few dollars is our domain. working in the 10^-3 to -6 is easy, -7 and beyond is a challenge.
+time experiment needs time measurements. large time jumps can be checked personally but nano and smaller need finesse.
+Ghx storage scopes are >$10,000 so circuits worth a few dollars is our domain. working in the 10^-3 to -6 is easy, -7 and beyond is a challenge.
 
 
 ## detectors 
