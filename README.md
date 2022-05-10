@@ -64,6 +64,9 @@ The electronic charge is e = 1.6 × 10-19 C.
 ```
 For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 106 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. https://spark.iop.org/speed-electrons#gref
 
+### code
+- ENR
+
 ### experiment
 1. Gather the materials needed for the experiment, including a power supply, an electron gun, and a metal plate.
 2. Set up the power supply and electron gun according to the instructions.
@@ -88,61 +91,8 @@ results
 - 99% 7.09 seconds
 
 Now apply Relativistic effects as the voltage increase thus speed increases and we code a new program to take this into account.
-E
-```
-#include <iostream>
-#include <math.h>
-
-int main () {
-  float e = 1.6*pow(10,-19); //electronic charge
-  float V = 100; //voltage
-  float m = 9*pow(10,-31); //mass of electron
-  float c = 3*pow(10,8); //speed of light
-  float E = e*V; //energy transferred to electron
-  float v = c*sqrt(1-pow(m*c/E,2)); //relativistic speed
-  
-  std::cout << "The energy transferred to the electron is " << E << " joules." << std::endl;
-  std::cout << "The relativistic speed of the electron is " << v << " m/s." << std::endl;
-  
-  return 0;
-}
-
-convert to forth 83 code
-
-
-: main 
-   1.6e-19 fstore e 
-   100 fstore V 
-   9e-31 fstore m 
-   3e8 fstore c 
-   e f@ V f@ f* E f! 
-   c f@ m f@ f* f* E f@ f/ f- 1 f^ 0.5 f/ v f! 
-   "The energy transferred to the electron is " . 
-   E f@ . 
-   " joules." . 
-   cr 
-   "The relativistic speed of the electron is " . 
-   v f@ . 
-   " m/s." . 
-   cr ;
- ```
-
-main: The first line creates a function called "main".
-1.6e-19 fstore e: This line stores the value 1.6e-19 in a variable called "e".
-100 fstore V: This line stores the value 100 in a variable called "V".
-9e-31 fstore m: This line stores the value 9e-31 in a variable called "m".
-3e8 fstore c: This line stores the value 3e8 in a variable called "c".
-e f@ V f@ f*: This line calculates the value of "e" times "V" and stores it in a variable called "E".
-c f@ m f@ f* f*: This line calculates the value of "c" times "m" squared and stores it in a variable called "E".
-E f@ f/: This line calculates the square root of "E" and stores it in a variable called "v".
-"The energy transferred to the electron is " .: This line prints the text "The energy transferred to the electron is ".
-E f@ .: This line prints the value of "E". 
-"  joules." .: This line prints the text "joules."
-cr: This line prints a blank line.
-"The relativistic speed of the electron is " .: This line prints the text "The relativistic speed of the electron is ".
-v f@ .: This line prints the value of "v".
-"  m/s." .: This line prints the text "m/s."
-   
+### 
+- ER
 
 
 
