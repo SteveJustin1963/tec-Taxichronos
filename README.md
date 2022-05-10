@@ -10,15 +10,14 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
 - feed the DUT with a 1 MHz clock, send a 1.0001 MHz clock (put a trim in the Vcc line) to the clock input of a D flop which samples the DUT output, and you got a ghetto 10Gsps sampler, 
 
 ### Counters
-  ### exp1
+ 
 ### Sample and hold
-  ### exp1
+ 
 ### Lasers
-  ### exp1
+ 
 ### Electron gun
 
-### exp1
-
+- 1
 Typical large TV with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s. 
 - https://www.physicsforums.com/threads/faster-than-light.241389/ . 
 
@@ -39,7 +38,7 @@ For an electron gun with a voltage between its cathode and anode of V = 100V the
 
 - https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ENR.c
 
-### exp2
+- 2
 1. Gather the materials needed for the experiment, including a power supply, an electron gun, and a metal plate.
 2. Set up the power supply and electron gun according to the instructions.
 3. Turn on the power supply and electron gun.
