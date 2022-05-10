@@ -1,4 +1,5 @@
 // forth
+//  classic electron, non relativistic
 
 : main 
    1.6e-19 fstore e 
