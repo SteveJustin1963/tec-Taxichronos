@@ -16,9 +16,9 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
 ### Lasers
  
 ### Electron gun / beam 
-### Typical TV, CRT, CRO 
-with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s. 
-- https://www.physicsforums.com/threads/faster-than-light.241389/ . 
+For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 10^6 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. 
+- https://spark.iop.org/speed-electrons#gref
+- https://www.physicsforums.com/threads/faster-than-light.241389/
 
 Electrons boiled off the surface of a hot metal plate. They leave the plate with very small speeds, and then the electric field accelerates them towards the anode.  Electron has a charge of e coulombs, and the potential difference between the filament and the anode is V volts. The energy transferred to each coulomb of charge is V joules.  Energy transferred to electrons is eV joules. The electrons gain kinetic energy. Unlike electrons in a wire, these electrons have nothing to hit, nothing to transfer energy to, as they travel towards the anode. So each electron gains kinetic energy equal to the amount of energy transferred electrically. The electron starts from rest (near enough) so 
 - kinetic energy gained = ½mv^2 where m is its mass and v is its speed. 
@@ -33,30 +33,29 @@ Electrons boiled off the surface of a hot metal plate. They leave the plate with
 6. Record the time it took for the electron beam to travel the distance.
 7. Compare the two times. If the electron beam is significantly slower than the speed of light, then it will have taken longer for the electron beam to travel the distance than the light.
 
-For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 10E6 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. https://spark.iop.org/speed-electrons#gref
+Typical TV, CRT, CRO with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s. A typical color CRT only needs 27k to a max of 35k. “voltages used in diagnostic X-ray tubes range from roughly 20 kV to 150 kV and thus the highest energies of the X-ray photons range from roughly 20 keV to 150 keV.”
  
 https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ENR.c
 
-### Relativistic effects 
-Apply Relativistic effects as the voltage increase thus speed increases.  
+### Consider Relativistic effects 
+Look at relativistic effects as the voltage increase thus speed increases.  
 
 https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ER.c
 
-The electron will experience time travel and move forward in time
-- speed of light %
+The electron will experience "time travel" and move forward in time, so as % of speed of light we can say
 - 0% 1.00 second
 - 25% 1.03 seconds
 - 50% 1.15 seconds
 - 75% 1.51 seconds
 - 99% 7.09 seconds
 
-So if we want the travel 15 seconds into the future over 1 minute, the voltage needed to accelerate the electron to 50% the speed of light is only 63,281.3 volts or 63kV. A typical color CRT only uses 27k to make of 35k. “voltages used in diagnostic X-ray tubes range from roughly 20 kV to 150 kV and thus the highest energies of the X-ray photons range from roughly 20 keV to 150 keV.”
+So if we want the travel 15 seconds into the future over 1 minute, the voltage needed to accelerate the electron to 50% the speed of light is only 63,281.3 volts or 63kV. Thats hot. 
 
 - https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/findV_percentSpeed.c
 - https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ER_50percent.c 
 
 
-### kinetic energy 
+### Look at kinetic energy 
 1. Gather the materials needed for the experiment, including a power supply, an electron gun, and a metal plate.
 2. Set up the power supply and electron gun according to the instructions.
 3. Turn on the power supply and electron gun.
@@ -69,7 +68,6 @@ So if we want the travel 15 seconds into the future over 1 minute, the voltage n
 10. Plot the results to show how the kinetic energy of the electrons varies with the potential difference. and 
 11. Compare the results to the expected values.
 12. Repeat the experiment as necessary.
-
  
 
 
