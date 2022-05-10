@@ -74,42 +74,6 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
 10. Plot the results to show how the kinetic energy of the electrons varies with the potential difference. and 
 11. Compare the results to the expected values.
 12. Repeat the experiment as necessary.
-```
-
-#include <iostream>
-#include <math.h>
-
-int main () {
-  float e = 1.6*pow(10,-19); //electronic charge
-  float V = 100; //voltage
-  float m = 9*pow(10,-31); //mass of electron
-  float v = 6*pow(10,6); //speed of electron
-  float E = e*V; //energy transferred to electron
-  
-  std::cout << "The energy transferred to the electron is " << E << " joules." << std::endl;
-  std::cout << "The speed of the electron is " << v << " m/s." << std::endl;
-  
-  return 0;
-}
-
-// forth
-
-: main 
-   1.6e-19 fstore e 
-   100 fstore V 
-   9e-31 fstore m 
-   6e6 fstore v 
-   e f@ V f@ f* E f! 
-   "The energy transferred to the electron is " . 
-   E f@ . 
-   " joules." . 
-   cr 
-   "The speed of the electron is " . 
-   v f@ . 
-   " m/s." . 
-   cr ;
-   ```
-   
 
    
    
