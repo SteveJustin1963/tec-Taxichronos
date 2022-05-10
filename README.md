@@ -16,8 +16,7 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
 ### Lasers
  
 ### Electron gun
-
-- 1
+#### 1
 Typical large TV with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s. 
 - https://www.physicsforums.com/threads/faster-than-light.241389/ . 
 
@@ -38,7 +37,7 @@ For an electron gun with a voltage between its cathode and anode of V = 100V the
 
 - https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ENR.c
 
-- 2
+#### 2
 1. Gather the materials needed for the experiment, including a power supply, an electron gun, and a metal plate.
 2. Set up the power supply and electron gun according to the instructions.
 3. Turn on the power supply and electron gun.
@@ -52,7 +51,9 @@ For an electron gun with a voltage between its cathode and anode of V = 100V the
 11. Compare the results to the expected values.
 12. Repeat the experiment as necessary.
 
-### consider the Relativistic effects as the voltage thus speed increases.
+#### 3 
+-consider the Relativistic effects as the voltage thus speed increases.
+
 results
 - speed of light %
 - 0% 1.00 second
@@ -62,7 +63,7 @@ results
 - 99% 7.09 seconds
 
 Now apply Relativistic effects as the voltage increase thus speed increases and we code a new program to take this into account.
-### 
+ 
 - ER
 
 
