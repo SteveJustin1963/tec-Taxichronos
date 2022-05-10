@@ -43,7 +43,10 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
 ### Sample and hold
 ### lasers
 ### electron gun/beam
-- typical large TV with a width of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which is just under 300,000,000 m/s. https://www.physicsforums.com/threads/faster-than-light.241389/ . 
+Typical large TV with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s. 
+- https://www.physicsforums.com/threads/faster-than-light.241389/ . 
+
+### experiment steps 
 1. Choose a known distance that light can travel in a reasonable amount of time, such as 1 meter.
 2. Set up a timer, and start it when light is emitted at one end of the distance.
 3. Stop the timer when the light reaches the other end of the distance.
@@ -52,16 +55,16 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
 6. Record the time it took for the electron beam to travel the distance.
 7. Compare the two times. If the electron beam is significantly slower than the speed of light, then it will have taken longer for the electron beam to travel the distance than the light.
 
+### Electron gun
+Electrons boiled off the surface of a hot metal plate. They leave the plate with very small speeds, and then the electric field accelerates them towards the anode.  Electron has a charge of e coulombs, and the potential difference between the filament and the anode is V volts. The energy transferred to each coulomb of charge is V joules.  Energy transferred to electrons is eV joules. The electrons gain kinetic energy. Unlike electrons in a wire, these electrons have nothing to hit, nothing to transfer energy to, as they travel towards the anode. So each electron gains kinetic energy equal to the amount of energy transferred electrically. The electron starts from rest (near enough) so 
+```
+kinetic energy gained = ½mv^2 where m is its mass and v is its speed. 
+½mv^2 = eV, The mass of the electron is m = 9 × 10-31 kg, 
+The electronic charge is e = 1.6 × 10-19 C. 
+```
+For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 106 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. https://spark.iop.org/speed-electrons#gref
 
-
-
-- Electron gun, electrons boiled off the surface of a hot metal plate. They leave the plate with very small speeds, and then the electric field accelerates them towards the anode.  Electron has a charge of e coulombs, and the potential difference between the filament and the anode is V volts. The energy transferred to each coulomb of charge is V joules.  Energy transferred to electrons is eV joules. The electrons gain kinetic energy. Unlike electrons in a wire, these electrons have nothing to hit, nothing to transfer energy to, as they travel towards the anode. So each electron gains kinetic energy equal to the amount of energy transferred electrically. The electron starts from rest (near enough) so the kinetic energy gained is given by 
-
-- ½mv^2 where m is its mass and v is its speed. 
-- ½mv^2 = eV, The mass of the electron is m = 9 × 10-31 kg, 
-- The electronic charge is e = 1.6 × 10-19 C. 
-- For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 106 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. https://spark.iop.org/speed-electrons#gref
-
+### experiment
 1. Gather the materials needed for the experiment, including a power supply, an electron gun, and a metal plate.
 2. Set up the power supply and electron gun according to the instructions.
 3. Turn on the power supply and electron gun.
@@ -75,23 +78,17 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
 11. Compare the results to the expected values.
 12. Repeat the experiment as necessary.
 
-   
-   
+### consider the Relativistic effects as the voltage thus speed increases.
+results
+- speed of light %
+- 0% 1.00 second
+- 25% 1.03 seconds
+- 50% 1.15 seconds
+- 75% 1.51 seconds
+- 99% 7.09 seconds
 
-
-
-- now consider the Relativistic effects as the voltage thus speed increases.
-```
-speed of light %
-0% 1.00 second
-25% 1.03 seconds
-50% 1.15 seconds
-75% 1.51 seconds
-99% 7.09 seconds
-```
-
-apply Relativistic effects as the voltage thus speed increases and write a new program to take this into account.
-
+Now apply Relativistic effects as the voltage increase thus speed increases and we code a new program to take this into account.
+E
 ```
 #include <iostream>
 #include <math.h>
