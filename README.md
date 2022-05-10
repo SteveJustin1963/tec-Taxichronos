@@ -98,6 +98,8 @@ Now apply Relativistic effects as the voltage increase thus speed increases and 
 
 
 ### find V for 50% speed of light.
+https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/findV_percentSpeed.c
+
 ```
 
 #include <iostream>
