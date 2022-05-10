@@ -1,4 +1,4 @@
- ; electron
+ ; classic electron, non relativistic
 
 #include <iostream>
 #include <math.h>
