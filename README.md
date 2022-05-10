@@ -1,5 +1,8 @@
 # tec-Taxichronos
-Time travel experiments using the tec-1 with circuit and apparatus attached, eg ADC 
+
+![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/tardis-time-machine-570x298.jpg)
+
+Time travel experiments (as if) using the Tec-1 with circuit and apparatus attached, eg ADC 
 
 ### Measurement
 Time experiment needs time measurements. Large time jumps can be checked personally but nano and smaller need finesse.
