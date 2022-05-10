@@ -13,11 +13,11 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
 - feed the DUT with a 1 MHz clock, send a 1.0001 MHz clock (put a trim in the Vcc line) to the clock input of a D flop which samples the DUT output, and you got a ghetto 10 Gsps sampler, 
 
 ### Counters
- 
+ blah blah
 ### Sample and hold
- 
+ blah blah
 ### Lasers
- 
+ blah blah
 ### Electron gun / beam 
 For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 10^6 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. 
 - https://spark.iop.org/speed-electrons#gref
