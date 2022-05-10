@@ -1,30 +1,27 @@
 # tec-Taxichronos
-Time travel experiments using the tec-1
- 
+Time travel experiments using the tec-1 with circuit and apparatus attached, eg ADC 
 
-
-
-
-so we build a circuit/apparatus and attached to tec1 via ADC 
-
-1. Measurement
+### Measurement
 Time experiment needs time measurements. Large time jumps can be checked personally but nano and smaller need finesse.
 Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domain. Working in the 10^-3 to -6 is easy, -7 and beyond is a challenge.
 
-
-2. Detectors 
+### Detectors 
 - PLL phase- to measure the delay, feed clock frequency in, use a fast 74AHC XOR gate to compute the (input of X) XOR (output of X). RC filters the output. The average voltage is proportional to the time delay modulo clock period.
-
 - feed the DUT with a 1 MHz clock, send a 1.0001 MHz clock (put a trim in the Vcc line) to the clock input of a D flop which samples the DUT output, and you got a ghetto 10Gsps sampler, 
 
-3. counters
-4. Sample and hold
-5. lasers
-6. electron gun/beam
+### Counters
+  ### exp1
+### Sample and hold
+  ### exp1
+### Lasers
+  ### exp1
+### Electron gun
+
+### exp1
+
 Typical large TV with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s. 
 - https://www.physicsforums.com/threads/faster-than-light.241389/ . 
 
-### experiment electron gun 
 1. Choose a known distance that light can travel in a reasonable amount of time, such as 1 meter.
 2. Set up a timer, and start it when light is emitted at one end of the distance.
 3. Stop the timer when the light reaches the other end of the distance.
@@ -33,19 +30,16 @@ Typical large TV with a depth of 1 meter that equates to the electron beam movin
 6. Record the time it took for the electron beam to travel the distance.
 7. Compare the two times. If the electron beam is significantly slower than the speed of light, then it will have taken longer for the electron beam to travel the distance than the light.
 
-### Electrons  
 Electrons boiled off the surface of a hot metal plate. They leave the plate with very small speeds, and then the electric field accelerates them towards the anode.  Electron has a charge of e coulombs, and the potential difference between the filament and the anode is V volts. The energy transferred to each coulomb of charge is V joules.  Energy transferred to electrons is eV joules. The electrons gain kinetic energy. Unlike electrons in a wire, these electrons have nothing to hit, nothing to transfer energy to, as they travel towards the anode. So each electron gains kinetic energy equal to the amount of energy transferred electrically. The electron starts from rest (near enough) so 
-```
-kinetic energy gained = ½mv^2 where m is its mass and v is its speed. 
-½mv^2 = eV, The mass of the electron is m = 9 × 10-31 kg, 
-The electronic charge is e = 1.6 × 10-19 C. 
-```
+- kinetic energy gained = ½mv^2 where m is its mass and v is its speed. 
+- ½mv^2 = eV, The mass of the electron is m = 9 × 10-31 kg, 
+- The electronic charge is e = 1.6 × 10-19 C. 
+
 For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 106 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. https://spark.iop.org/speed-electrons#gref
 
-### code
-- ENR
+- https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ENR.c
 
-### experiment
+### exp2
 1. Gather the materials needed for the experiment, including a power supply, an electron gun, and a metal plate.
 2. Set up the power supply and electron gun according to the instructions.
 3. Turn on the power supply and electron gun.
