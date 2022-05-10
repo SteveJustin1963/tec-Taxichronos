@@ -1,6 +1,6 @@
 # tec-Taxichronos
 
-![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/tardis-time-machine-570x298.jpg)
+![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/tardis-time-machine-570x298.jpg) ![](https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/pics/bttf1.png)
 
 Time travel experiments (as if) using the Tec-1 with circuit and apparatus attached, eg ADC 
 
