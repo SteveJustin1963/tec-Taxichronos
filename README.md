@@ -32,19 +32,19 @@ Time travel experiments using the tec-1
 so we build a circuit/apparatus and attached to tec1 via ADC 
 
 ## Measurement
-time experiment needs time measurements. large time jumps can be checked personally but nano and smaller need finesse.
-Ghx storage scopes are >$10,000 so circuits worth a few dollars is our domain. working in the 10^-3 to -6 is easy, -7 and beyond is a challenge.
+Time experiment needs time measurements. Large time jumps can be checked personally but nano and smaller need finesse.
+Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domain. Working in the 10^-3 to -6 is easy, -7 and beyond is a challenge.
 
 
-## detectors 
-- PLL phase- to measure the delay, feed clock frequency in, use a fast 74AHC XOR gate to compute the (input of X) XOR (output of X). RC filter the output. The average voltage is proportional to the time delay modulo clock period.
+### Detectors 
+- PLL phase- to measure the delay, feed clock frequency in, use a fast 74AHC XOR gate to compute the (input of X) XOR (output of X). RC filters the output. The average voltage is proportional to the time delay modulo clock period.
 
 - feed the DUT with a 1 MHz clock, send a 1.0001 MHz clock (put a trim in the Vcc line) to the clock input of a D flop which samples the DUT output, and you got a ghetto 10Gsps sampler, 
 
-## counters
-## Sample and hold
-## lasers
-## electron gun/beam
+### counters
+### Sample and hold
+### lasers
+### electron gun/beam
 - typical large TV with a width of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which is just under 300,000,000 m/s. https://www.physicsforums.com/threads/faster-than-light.241389/ . 
 1. Choose a known distance that light can travel in a reasonable amount of time, such as 1 meter.
 2. Set up a timer, and start it when light is emitted at one end of the distance.
@@ -57,7 +57,7 @@ Ghx storage scopes are >$10,000 so circuits worth a few dollars is our domain. w
 
 
 
-- electron gun, electrons boiled off the surface of a hot metal plate. They leave the plate with very small speeds, and then the electric field accelerates them towards the anode.  electron has a charge of e coulombs, and the potential difference between the filament and the anode is V volts. The energy transferred to each coulomb of charge is V joules.  energy transferred to electrons is eV joules. The electrons gain kinetic energy. Unlike electrons in a wire, these electrons have nothing to hit, nothing to transfer energy to, as they travel towards the anode. So each electron gains kinetic energy equal to the amount of energy transferred electrically. The electron starts from rest (near enough) so the kinetic energy gained is given by 
+- Electron gun, electrons boiled off the surface of a hot metal plate. They leave the plate with very small speeds, and then the electric field accelerates them towards the anode.  Electron has a charge of e coulombs, and the potential difference between the filament and the anode is V volts. The energy transferred to each coulomb of charge is V joules.  Energy transferred to electrons is eV joules. The electrons gain kinetic energy. Unlike electrons in a wire, these electrons have nothing to hit, nothing to transfer energy to, as they travel towards the anode. So each electron gains kinetic energy equal to the amount of energy transferred electrically. The electron starts from rest (near enough) so the kinetic energy gained is given by 
 
 - ½mv^2 where m is its mass and v is its speed. 
 - ½mv^2 = eV, The mass of the electron is m = 9 × 10-31 kg, 
