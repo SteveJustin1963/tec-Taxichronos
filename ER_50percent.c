@@ -14,3 +14,15 @@ int main ()
   
   return 0;
 }
+
+
+matlab
+e = 1.6*10^-19;
+m = 9*10^-31;
+c = 3*10^8;
+v = c*0.5;
+E = m*v^2/2;
+V = E/e;
+
+fprintf('The voltage needed for an electron to travel at 50%% the speed of light is %f volts.\n',V)
+  
