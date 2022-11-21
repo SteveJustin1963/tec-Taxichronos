@@ -26,7 +26,7 @@ Giga Hz storage scopes are >$10,000 so circuits worth a few dollars is our domai
  blah blah
 ### Lasers
  blah blah
-### Electron gun / beam 
+### Electron gun / beam - now were cooking
 For an electron gun with a voltage between its cathode and anode of V = 100V the electron will have a speed of about v = 6 × 10^6 m/s. (Relativistic effects have not been taken into account.) There will be no more acceleration once the electrons have passed through the anode. 
 - https://spark.iop.org/speed-electrons#gref
 - https://www.physicsforums.com/threads/faster-than-light.241389/
