@@ -60,7 +60,7 @@ The electron will experience "time travel" and move forward in time, so as % of 
 - 75% 1.51 seconds
 - 99% 7.09 seconds
 
-So if we want the travel 15 seconds into the future over 1 minute, the voltage needed to accelerate the electron to 50% the speed of light is only 63,281.3 volts or 63kV. Thats hot. 
+So if we want to travel 15 seconds into the future over 1 minute, the voltage needed to accelerate the electron to 50% the speed of light is only 63,281.3 volts or 63kV. Thats hot. 
 
 - https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/findV_percentSpeed.c
 - https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ER_50percent.c 
