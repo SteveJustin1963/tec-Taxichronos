@@ -45,13 +45,17 @@ Electrons boiled off the surface of a hot metal plate. They leave the plate with
 7. Compare the two times. If the electron beam is significantly slower than the speed of light, then it will have taken longer for the electron beam to travel the distance than the light.
 
 Typical TV, CRT, CRO with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s. A typical color CRT only needs 27k to a max of 35k. “voltages used in diagnostic X-ray tubes range from roughly 20 kV to 150 kV and thus the highest energies of the X-ray photons range from roughly 20 keV to 150 keV.”
- 
-https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ENR.c
+
+code
+
+ENR.c
 
 ### Consider Relativistic effects 
 Look at relativistic effects as the voltage increase thus speed increases.  
 
-https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ER.c
+code
+
+ER.c
 
 The electron will experience "time travel" and move forward in time, so as % of speed of light we can say
 - 0% 1.00 second
@@ -62,8 +66,10 @@ The electron will experience "time travel" and move forward in time, so as % of 
 
 So if we want to travel 15 seconds into the future over 1 minute, the voltage needed to accelerate the electron to 50% the speed of light is only 63,281.3 volts or 63kV. Thats hot. 
 
-- https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/findV_percentSpeed.c
-- https://github.com/SteveJustin1963/tec-Taxichronos/blob/main/ER_50percent.c 
+code
+
+- findV_percentSpeed.c
+- ER_50percent.c 
 
 
 ### Look at kinetic energy 
