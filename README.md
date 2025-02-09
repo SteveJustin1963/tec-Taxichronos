@@ -88,13 +88,7 @@ code
  
 
 
-
-## Iterate
-- https://github.com/SteveJustin1963/tec-Taxichronos/wiki
-
-## Ref
-- https://www.tutorialspoint.com/compile_cpp_online.php
-- https://github.com/SteveJustin1963/tec-Taxichronos/wiki
+ 
 
 
 
