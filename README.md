@@ -115,7 +115,11 @@ It looks like **tec-Taxichronos** is a project that explores **time measurement 
      - **63kV required** to accelerate electrons to **50% the speed of light**.
 
 5. **Kinetic Energy Calculations**
-   - **Energy gained by electrons**: \( KE = \frac{1}{2} m v^2 = eV \)
+   - **Energy gained by electrons**:
+   -  ![image](https://github.com/user-attachments/assets/358ef883-39f2-408d-961c-25758bd98c69)
+   -  
+\( KE = \frac{1}{2} m v^2 = eV \)
+
    - Experiment setup:
      - Heat metal plate → **boil off electrons**.
      - Accelerate towards **anode**.
