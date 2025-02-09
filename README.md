@@ -368,4 +368,89 @@ The relativistic effect at **50kV** is **tiny**, but at **higher voltages** (clo
 
 Would you like **a circuit schematic** for the measurement setup? 🚀
 
+///
+# To measure **electron time-of-flight in nanoseconds**, 
+we need an oscilloscope with **sufficient bandwidth and sampling rate** to resolve time differences in the range of **10 ns to 100 ps** (for high-energy electrons). 
 
+---
+
+## **Required Oscilloscope Specifications**
+### **1. Bandwidth (BW)**
+The **minimum bandwidth** required is based on the fastest signal we need to resolve. The rise time (\( t_r \)) of an oscilloscope is related to its bandwidth by:
+
+![image](https://github.com/user-attachments/assets/8e20a4a2-bf5e-4719-aad4-dda4d8112073)
+
+\[
+t_r \approx \frac{0.35}{BW}
+\]
+
+For example:
+- If we need to measure **10 ns time differences**, we need at least:
+
+![image](https://github.com/user-attachments/assets/6e1ac70d-cbab-4226-b8ed-ac76ff5aa37f)
+
+  \[
+  BW = \frac{0.35}{10 \times 10^{-9}} = 35 \text{ MHz}
+  \]
+
+- For **1 ns time differences**, we need:
+
+![image](https://github.com/user-attachments/assets/784b9c46-cbf6-4605-bc0d-9d913d887c16)
+
+  \[
+  BW = \frac{0.35}{1 \times 10^{-9}} = 350 \text{ MHz}
+  \]
+
+- For **100 ps time differences** (high-energy relativistic electrons), we need:
+
+![image](https://github.com/user-attachments/assets/6eaedc34-9c46-4740-b8e2-f03f685a5bdf)
+
+  \[
+  BW = \frac{0.35}{0.1 \times 10^{-9}} = 3.5 \text{ GHz}
+  \]
+
+Thus, **for reasonable electron speeds**, a **500 MHz to 1 GHz oscilloscope** should be sufficient.
+
+---
+
+### **2. Sampling Rate**
+The oscilloscope’s **sampling rate** should be at least **10× the bandwidth** to properly capture high-speed events:
+
+![image](https://github.com/user-attachments/assets/fb556944-bacd-469d-a73f-1e9d9825c153)
+
+\[
+\text{Sampling Rate} = 10 \times BW
+\]
+
+- **500 MHz BW** → **5 GSa/s** (5 gigasamples per second)
+- **1 GHz BW** → **10 GSa/s**
+- **3 GHz BW** → **30 GSa/s**
+
+For **nanosecond-scale time-of-flight measurements**, an oscilloscope with **at least 5 GSa/s** is recommended.
+
+---
+
+## **Recommended Oscilloscope**
+| Application | Time-of-Flight Scale | Required Bandwidth | Recommended Sampling Rate |
+|------------|--------------------|-------------------|----------------------|
+| Low voltage (< 50kV) | 100 ns | 50 MHz | 500 MSa/s |
+| Medium voltage (50-200kV) | 10 ns | 500 MHz | 5 GSa/s |
+| High voltage (200kV - 1MV) | 1 ns | 1 GHz | 10 GSa/s |
+| Extreme relativistic speeds | 100 ps | 3 GHz | 30 GSa/s |
+
+### **Affordable Lab Options**
+- **Rigol DS7054 (500 MHz, 5 GSa/s)**
+- **Siglent SDS6204A (2 GHz, 10 GSa/s)**
+- **Keysight InfiniiVision DSOX3104T (1 GHz, 5 GSa/s)**
+
+For advanced cases, a **Tektronix or Keysight 3-5 GHz oscilloscope** is ideal.
+
+---
+
+### **Conclusion**
+To measure **nanosecond-scale electron time-of-flight**, we need:
+✅ **500 MHz - 1 GHz bandwidth**  
+✅ **5-10 GSa/s sampling rate**  
+✅ **High-speed triggers & delay measurement tools**  
+
+Would you like a **detailed circuit for pulse detection**? 🚀
