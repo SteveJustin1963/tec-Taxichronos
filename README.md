@@ -188,7 +188,8 @@ To measure the relativistic effects on time dilation as electrons are accelerate
 
 ### **Phase 3: Data Analysis & Relativistic Effects**
 5. **Compare Electron Travel Time vs. Light Travel Time**:
-   - Convert the applied voltage into **electron velocity** using:  
+   - Convert the applied voltage into **electron velocity** using:
+   - 
     ![image](https://github.com/user-attachments/assets/b002f882-8039-499e-aa76-5ac94cfce79d)
 
      \[
@@ -196,6 +197,7 @@ To measure the relativistic effects on time dilation as electrons are accelerate
      \]
      (where **e = 1.6 × 10⁻¹⁹ C**, **m = 9.11 × 10⁻³¹ kg**).
    - Use **time dilation formula**:
+   - 
     ![image](https://github.com/user-attachments/assets/a3de2a2f-134d-4d6a-a92f-48e9f4545c4d)
 
       \[
