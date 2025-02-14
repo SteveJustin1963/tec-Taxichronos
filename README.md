@@ -39,12 +39,13 @@ Electrons boiled off the surface of a hot metal plate. They leave the plate with
 1. Choose a known distance that light can travel in a reasonable amount of time, such as 1 meter.
 2. Set up a timer, and start it when light is emitted at one end of the distance.
 3. Stop the timer when the light reaches the other end of the distance.
-4. Record the time it took for the light to travel the distance.
+4. Record the time it took for the light to travel the distance. al this will be harder than this. will review this later. lets just assum the speed of light as it is.
 5. Now, do the same thing with the electron beam. Set up the timer, start it when the electron beam is emitted, and stop it when the electron beam reaches the other end of the distance.
 6. Record the time it took for the electron beam to travel the distance.
-7. Compare the two times. If the electron beam is significantly slower than the speed of light, then it will have taken longer for the electron beam to travel the distance than the light.
+7. Compare the two times. If the electron beam is significantly slower than the speed of light, then it will have taken longer for the electron beam to travel the distance than the light. well dah!
 
-Typical TV, CRT, CRO with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s. A typical color CRT only needs 27k to a max of 35k. “voltages used in diagnostic X-ray tubes range from roughly 20 kV to 150 kV and thus the highest energies of the X-ray photons range from roughly 20 keV to 150 keV.”
+Typical TV, CRT, CRO with a depth of 1 meter that equates to the electron beam moving at 96,000 m/s which is orders of magnitude slower than the speed of light which 0.032 % of the speed of light; 300,000,000 m/s (3x10^8). 
+A typical color CRT only needs 27k to a max of 35k. “voltages used in diagnostic X-ray tubes range from roughly 20 kV to 150 kV and thus the highest energies of the X-ray photons range from roughly 20 keV to 150 keV.”
 
 code
 
