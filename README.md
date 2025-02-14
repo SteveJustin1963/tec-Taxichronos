@@ -72,7 +72,7 @@ code
 - ER_50percent.c 
 
 
-### Look at kinetic energy 
+### Lab
 1. Gather the materials needed for the experiment, including a power supply, an electron gun, and a metal plate.
 2. Set up the power supply and electron gun according to the instructions.
 3. Turn on the power supply and electron gun.
